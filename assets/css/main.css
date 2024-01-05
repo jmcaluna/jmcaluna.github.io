@@ -3338,6 +3338,13 @@
 		margin-top: -14em;
 	}
 
+	a.title.line{
+		text-decoration: none;
+  		color: black;
+		outline: none;
+	}
+
+
 /* Footer */
 
 	#footer {
